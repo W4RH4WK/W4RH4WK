@@ -4,6 +4,7 @@
 
 # 🎮 Games Involved
 
+- [Ys X: Nordics](https://store.steampowered.com/app/2731870/) (PC Port)
 - [The Legend of Heroes: Trails through Daybreak](https://store.steampowered.com/app/2138610/) (PC Port)
 - [The Legend of Heroes: Trails into Reverie](https://store.steampowered.com/app/1668540/) (PC Port QA)
 - [The Legend of Heroes: Trails to Azure](https://store.steampowered.com/app/1668520/) (PC & Nintendo Switch Port)

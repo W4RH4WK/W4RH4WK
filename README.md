@@ -4,6 +4,7 @@
 
 # 🎮 Games Involved
 
+- [Phantom Brave](https://store.steampowered.com/app/409870/) (PC Overhaul, PlayStation 5 Port)
 - [Ys X: Nordics](https://store.steampowered.com/app/2731870/) (PC Port)
 - [The Legend of Heroes: Trails through Daybreak](https://store.steampowered.com/app/2138610/) (PC Port)
 - [The Legend of Heroes: Trails into Reverie](https://store.steampowered.com/app/1668540/) (PC Port QA)

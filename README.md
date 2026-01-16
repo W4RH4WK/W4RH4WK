@@ -4,6 +4,7 @@
 
 # 🎮 Games Involved
 
+- [The Legend of Heroes: Trails beyond the Horizon](https://store.steampowered.com/app/3316940/) (PC & Nintendo Switch Port)
 - [The Legend of Heroes: Trails through Daybreak II](https://store.steampowered.com/app/2668430/) (PC Port)
 - [Phantom Brave](https://store.steampowered.com/app/409870/) (PC Overhaul, PlayStation 5 Port)
 - [Ys X: Nordics](https://store.steampowered.com/app/2731870/) (PC Port)
